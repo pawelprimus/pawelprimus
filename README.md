@@ -1,9 +1,11 @@
-### Hello :computer:
+### Hello #####:computer:
 
 <!--
 **pawelprimus/pawelprimus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+https://gist.github.com/rxaviers/7360908
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
