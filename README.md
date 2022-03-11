@@ -1,8 +1,7 @@
 ### Hello 
 # :computer:
 
-🛠  Tech Stack
-Spring Java IntelliJ IDEA GitHub
+
 
 
 <!--
