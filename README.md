@@ -1,4 +1,4 @@
-### Hello, I am Pawel. I am Junior Java Developer. You can find me on my   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/paweł-primus-6a7b80185)     
+### Hello, I am Pawel. I am Junior Java Developer. You can find me on my   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawe%C5%82-primus-6a7b80185/)     
 
 ### :computer:
 
