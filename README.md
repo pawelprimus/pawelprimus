@@ -1,4 +1,4 @@
-### Hello, I am Pawel [:computer:](https://www.youtube.com/watch?v=ZtWTUt2RZh0) . If you have any question don't hesitate, find me and text on my [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawe%C5%82-primus-6a7b80185/)     
+## Hello, I am Pawel [:computer:](https://www.youtube.com/watch?v=ZtWTUt2RZh0) . If you have any question don't hesitate, find me and text on my [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawe%C5%82-primus-6a7b80185/)     
 
 
 ## 🛠  Tech Stack
