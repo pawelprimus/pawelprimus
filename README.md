@@ -6,8 +6,9 @@
 
 
 ## Big fan of daily kata in ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey) 
-## I am doing some courses on ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
-## I am making my first steps in ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+## Doing some courses on ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+## Making very first steps in ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+## Currenly working on tax calculator. Tech stack: Spring Boot + [Vaadin](https://en.wikipedia.org/wiki/Vaadin). The repo is hidden for a reason of some sensitive data :disappointed: but results will be visible soon :v: 
 
 
 
