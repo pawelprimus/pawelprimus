@@ -6,8 +6,6 @@
 
 
 ## Big fan of daily kata in ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey) ![](https://www.codewars.com/users/%3Cprim%3Erim%3C%2Fprim%3E/badges/large)
-## Doing some courses on ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
-## Making first steps in ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 <!--
 **pawelprimus/pawelprimus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
