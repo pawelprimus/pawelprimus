@@ -22,7 +22,7 @@
 The goal was to commit code for 100 consecutive days. [Repository](https://github.com/pawelprimus/IApp)
 
 ### Is-Eldorado - Job Market Tracker
-A web scraper that tracks the number of job offers on justjoin.it and displays the data in a diagram. [Repository](https://github.com/pawelprimus/is-eldorado) | [Live Site](your-site-url-here)
+A web scraper that tracks the number of job offers on justjoin.it and displays the data in a diagram. Hosted on VPS [MIKR.US](https://mikr.us/) [Repository](https://github.com/pawelprimus/is-eldorado) | [Live Site](https://eldorado.byst.re/)
 
 
 <!--
