@@ -21,13 +21,13 @@ If you have any question don't hesitate, find me and text on my [![LinkedIn](htt
 
 ## 🚀 My Projects
 
-### Eldorado - justjoin.in offer amount scrapper - [Live Site](https://eldorado.byst.re/)
+### Eldorado - justjoin.it offer amount scrapper - [Live Site](https://eldorado.byst.re/)
 A web scraper that tracks the number of job offers on justjoin.it and displays the data in a diagram. 
 - Hosted on VPS - [MIKR.US](https://mikr.us/?r=c12f3d8a) 
 - Github repo   - [Repository](https://github.com/pawelprimus/is-eldorado)
 
 ### IApp - Created for the [100commitow.pl](https://100commitow.pl/) challenge
-The goal was to commit code for 100 consecutive days. [Repository](https://github.com/pawelprimus/IApp)
+The goal of the event was to commit code for 100 consecutive days. Here you can check more info about project and code - [Repository](https://github.com/pawelprimus/IApp)
 
 
 <!--
