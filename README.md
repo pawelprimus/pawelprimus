@@ -1,5 +1,6 @@
 
-## Hello, I am Pawel [:computer:](https://www.youtube.com/watch?v=ZtWTUt2RZh0) . If you have any question don't hesitate, find me and text on my [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawel-primus/)     
+## Hello, I am Pawel [:computer:](https://www.youtube.com/watch?v=ZtWTUt2RZh0). 
+If you have any question don't hesitate, find me and text on my [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawel-primus/)     
 
 
 ## 🛠  Tech Stack
@@ -18,13 +19,15 @@
 -   [2023](https://github.com/pawelprimus/Advent-Of-Code-2023) - 40/50 ✨
 -   [2024](https://github.com/pawelprimus/Advent-Of-Code-2024) - 06/50 ✨
 
+## 🚀 My Projects
+
+### Eldorado - justjoin.in offer amount scrapper - [Live Site](https://eldorado.byst.re/)
+A web scraper that tracks the number of job offers on justjoin.it and displays the data in a diagram. 
+- Hosted on VPS - [MIKR.US](https://mikr.us/?r=c12f3d8a) 
+- Github repo   - [Repository](https://github.com/pawelprimus/is-eldorado)
+
 ### IApp - Created for the [100commitow.pl](https://100commitow.pl/) challenge
 The goal was to commit code for 100 consecutive days. [Repository](https://github.com/pawelprimus/IApp)
-
-### Eldorado - justjoint.in offer amount scrapper - [Live Site](https://eldorado.byst.re/)
-A web scraper that tracks the number of job offers on justjoin.it and displays the data in a diagram. 
-Hosted on VPS - [MIKR.US](https://mikr.us/?r=c12f3d8a) 
-Github repo   - [Repository](https://github.com/pawelprimus/is-eldorado)
 
 
 <!--
