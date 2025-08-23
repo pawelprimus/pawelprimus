@@ -21,8 +21,10 @@
 ### IApp - Created for the [100commitow.pl](https://100commitow.pl/) challenge
 The goal was to commit code for 100 consecutive days. [Repository](https://github.com/pawelprimus/IApp)
 
-### Is-Eldorado - Job Market Tracker
-A web scraper that tracks the number of job offers on justjoin.it and displays the data in a diagram. Hosted on VPS [MIKR.US](https://mikr.us/) [Repository](https://github.com/pawelprimus/is-eldorado) | [Live Site](https://eldorado.byst.re/)
+### Eldorado - justjoint.in offer amount scrapper - [Live Site](https://eldorado.byst.re/)
+A web scraper that tracks the number of job offers on justjoin.it and displays the data in a diagram. 
+Hosted on VPS - [MIKR.US](https://mikr.us/?r=c12f3d8a) 
+Github repo   - [Repository](https://github.com/pawelprimus/is-eldorado)
 
 
 <!--
