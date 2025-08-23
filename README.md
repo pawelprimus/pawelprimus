@@ -26,8 +26,15 @@ A web scraper that tracks the number of job offers on justjoin.it and displays t
 - Hosted on VPS - [MIKR.US](https://mikr.us/?r=c12f3d8a) 
 - Github repo   - [Repository](https://github.com/pawelprimus/is-eldorado)
 
+### Pricio - monitor price of your favorite products - [Live Site](https://pricio.byst.re/)
+A web scraper where you can add links to products that you want to monitor price and get notification if is bellow your threshold.
+- Hosted on VPS - [MIKR.US](https://mikr.us/?r=c12f3d8a) 
+- Github repo   - PRIVATE
+
 ### IApp - Created for the [100commitow.pl](https://100commitow.pl/) challenge
-The goal of the event was to commit code for 100 consecutive days. Here you can check more info about project and code - [Repository](https://github.com/pawelprimus/IApp)
+The goal of the event was to commit code for 100 consecutive days. Here you can check more info about project and code - [Repository]
+- Hosted on VPS - NOT HOSTED
+- Github repo   - [Repository](https://github.com/pawelprimus/IApp)
 
 
 <!--
