@@ -17,7 +17,8 @@ If you have any question don't hesitate, find me and text on my [![LinkedIn](htt
 -   [2021](https://github.com/pawelprimus/Advent-Of-Code-2021) - 14/50 ✨
 -   [2022](https://github.com/pawelprimus/Advent-Of-Code-2022) - 12/50 ✨
 -   [2023](https://github.com/pawelprimus/Advent-Of-Code-2023) - 40/50 ✨
--   [2024](https://github.com/pawelprimus/Advent-Of-Code-2024) - 06/50 ✨
+-   [2024](https://github.com/pawelprimus/Advent-Of-Code-2024) - 10/50 ✨
+-   [2054](https://github.com/pawelprimus/Advent-Of-Code-2025) - 04/50 ✨...in progress 
 
 ## 🚀 My Projects
 
