@@ -18,7 +18,7 @@ If you have any question don't hesitate, find me and text on my [![LinkedIn](htt
 -   [2022](https://github.com/pawelprimus/Advent-Of-Code-2022) - 12/50 ✨
 -   [2023](https://github.com/pawelprimus/Advent-Of-Code-2023) - 40/50 ✨
 -   [2024](https://github.com/pawelprimus/Advent-Of-Code-2024) - 10/50 ✨
--   [2025](https://github.com/pawelprimus/Advent-Of-Code-2025) - 05/24 ✨ in progress... 
+-   [2025](https://github.com/pawelprimus/Advent-Of-Code-2025) - 06/24 ✨ in progress... 
 
 ## 🚀 My Projects
 
@@ -37,7 +37,7 @@ The goal of the event was to commit code for 100 consecutive days. Here you can 
 - Hosted on VPS - NOT HOSTED
 - Github repo   - [Repository](https://github.com/pawelprimus/IApp)
 
-### Pricio - monitor price of your favorite products - [Live Site](https://pricio.byst.re/) (Backend is currently down) 🚧🚧🚧
+### Pricio - monitor price of your favorite products - [Live Site](https://pricio.byst.re/) (Currently down) 🚧🚧🚧
 A web scraper where you can add links to products that you want to monitor price and get notification if is bellow your threshold.
 - Hosted on VPS - [MIKR.US](https://mikr.us/?r=c12f3d8a) 
 - Github repo   - PRIVATE
