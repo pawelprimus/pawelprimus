@@ -25,7 +25,7 @@ If you have any question don't hesitate, find me and text on my [![LinkedIn](htt
 ### Eldorado - justjoin.it offer amount scrapper - [Live Site](https://eldorado.byst.re/)
 A web scraper that tracks the number of job offers on justjoin.it and displays the data in a diagram. 
 - Hosted on VPS - [MIKR.US](https://mikr.us/?r=c12f3d8a) 
-- Github repo   - [Repository](https://github.com/pawelprimus/is-eldorado)
+- Github repo   - PRIVATE
 
 ### Songguesser - Guess songs by lyrics or audio - [Live Site](https://songguesser.bieda.it/)
 Choose artists and test your music knowledge by guessing songs from lyrics or audio.
